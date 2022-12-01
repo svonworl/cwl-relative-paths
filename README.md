@@ -1,1 +1,1 @@
-# cwl-relative-paths
+This repository contains a valid CWL workflow that tests the resolution of relative paths, confirming that relative paths are resolved relative to the path of the "current" file (the file from which a file is loaded).
